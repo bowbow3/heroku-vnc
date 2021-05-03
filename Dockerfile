@@ -11,6 +11,7 @@ RUN set -ex; \
         nautilus \
         gedit \
         expect \
+        obs-studio \
         sudo \
         vim \
         bash \
